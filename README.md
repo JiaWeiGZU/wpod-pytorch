@@ -1,8 +1,7 @@
 # WPOD-PYTORCH
 
 ## Intro
-This is the PyTorch Version of WPOD，The following is to the source code and paper.
-The complete code can be downloaded from the link （Baidu online disk link：https://pan.baidu.com/s/15npx8ZgDWCUJqTfsLoU9AA?pwd=wjia 
+This is the PyTorch Version of WPOD(running on the GPU)，The following is the complete code which can be downloaded from the link （Baidu online disk link：https://pan.baidu.com/s/15npx8ZgDWCUJqTfsLoU9AA?pwd=wjia 
 Extraction code：wjia）
 ## Introduction
 This repository contains the author's implementation of ECCV 2018 paper "License Plate Detection and Recognition in Unconstrained Scenarios".
