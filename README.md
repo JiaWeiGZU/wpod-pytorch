@@ -13,7 +13,7 @@ The training image download link（link：https://pan.baidu.com/s/1659QlXhnYBiug
 Extraction code：wjia），and you can download the training image and put it in the project directory.
 ## testing
 Directly run license plate detection Y file
-###result
+## result
 
 ## Reference weight file
 After downloading the weight file, put it under the ". / weight" folder（link：https://pan.baidu.com/s/1659QlXhnYBiugTHUj_L0nA?pwd=wjia 
